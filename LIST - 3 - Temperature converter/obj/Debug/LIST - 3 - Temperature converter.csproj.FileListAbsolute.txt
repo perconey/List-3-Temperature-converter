@@ -1,0 +1,7 @@
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\bin\Debug\LIST - 3 - Temperature converter.exe.config
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\bin\Debug\LIST - 3 - Temperature converter.exe
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\bin\Debug\LIST - 3 - Temperature converter.pdb
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\obj\Debug\LIST - 3 - Temperature converter.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\obj\Debug\LIST - 3 - Temperature converter.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\obj\Debug\LIST - 3 - Temperature converter.exe
+C:\Users\Roman\Desktop\C#\LIST - 3 - Temperature converter\LIST - 3 - Temperature converter\obj\Debug\LIST - 3 - Temperature converter.pdb
